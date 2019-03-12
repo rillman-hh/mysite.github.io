@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tips on Du Jockel</title>
+    <link>https://dujockel.de/tips/</link>
+    <description>Recent content in Tips on Du Jockel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dujockel.de/tips/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Basic Hugo Tips</title>
+      <link>https://dujockel.de/tips/how_to_hugo/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dujockel.de/tips/how_to_hugo/</guid>
+      <description> Einen neuen Post über das Terminal anlegen cd VerzeichnisWebsite hugo new post/&amp;lt;Postname&amp;gt;.md  Einen neuen Tip über das Terminal anlegen cd VerzeichnisWebsite hugo new tips/&amp;lt;Postname&amp;gt;.md  </description>
+    </item>
+    
+  </channel>
+</rss>
