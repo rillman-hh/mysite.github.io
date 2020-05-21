@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dujockel.de/recipes/fishsoup/</loc>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dujockel.de/recipes/burgerbuns/</loc>
     <lastmod>2020-05-17T00:00:00+00:00</lastmod>
   </url>
@@ -57,7 +62,7 @@
   
   <url>
     <loc>https://dujockel.de/</loc>
-    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -69,19 +74,19 @@
   
   <url>
     <loc>https://dujockel.de/tags/kochen/</loc>
-    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dujockel.de/tags/mittagessen/</loc>
-    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dujockel.de/recipes/</loc>
-    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
