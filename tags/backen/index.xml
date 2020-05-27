@@ -6,10 +6,19 @@
     <description>Recent content in Backen on Du Jockel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dujockel.de/tags/backen/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Walnussbrot</title>
+      <link>https://dujockel.de/recipes/walnussbrot/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dujockel.de/recipes/walnussbrot/</guid>
+      <description>Zutaten  350g Roggenmehl 150g Weizenmehl 20g Walnussöl 2TL Salz 400g Wasser 75g Sauerteig 20g Hefe 200g Walnusskerne  Zubereitung  Die Walnusskerne am besten über Nacht oder mindestens vier Stunden in kaltes Wasser legen Für den Teig zuerst das Salz in eine Schüssel geben, und danach die Mehle sowie das Öl darübergeben Die Hefe mit einem Teil des lauwarmen Wassers vermengen und dann zusammen mit dem restlichen Wasser und dem Sauerteig über das Mehl geben.</description>
+    </item>
     
     <item>
       <title>Brioche Buns für Burger (12 Stück à 80g)</title>
@@ -18,15 +27,6 @@
       
       <guid>https://dujockel.de/recipes/burgerbuns/</guid>
       <description>Zutaten  200 ml Wasser (wärmlich) 4 EL Milch 1 Würfel Hefe (frisch) 35 g Zucker 8 g Salz 80 g Butter (z.B. Kerrygold) 500 g Mehl (Typ 550) 1 Ei  zusätzlich für die Eistreiche:  1 Ei 2 EL Milch 2 EL Wasser Sesam  Zubereitung  Warmes Wasser, Milch mit Zucker und der Hefe in einer Schüssel vermengen und 5-10 min. ruhen lassen Nach der Ruhezeit die restlichen Zutaten mit dem Handrührgerät unterheben und bis zu einer geschmeidigen Konsistenz vermengen.</description>
-    </item>
-    
-    <item>
-      <title>Walnussbrot</title>
-      <link>https://dujockel.de/recipes/walnussbrot/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dujockel.de/recipes/walnussbrot/</guid>
-      <description>Zutaten  350g Roggenmehl 150g Weizenmehl 20g Walnussöl 2TL Salz 400g Wasser 75g Sauerteig 20g Hefe 200g Walnusskerne  Zubereitung  Die Walnusskerne am besten über Nacht oder mindestens vier Stunden in kaltes Wasser legen Für den Teig zuerst das Salz in eine Schüssel geben, und danach die Mehle sowie das Öl darübergeben Die Hefe mit einem Teil des lauwarmen Wassers vermengen und dann zusammen mit dem restlichen Wasser und dem Sauerteig über das Mehl geben.</description>
     </item>
     
   </channel>
