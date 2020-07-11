@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Du Jockel</title>
@@ -17,7 +17,7 @@
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://dujockel.de/tips/how_to_hugo/</guid>
-      <description> Einen neuen Post über das Terminal anlegen cd VerzeichnisWebsite hugo new post/&amp;lt;Postname&amp;gt;.md  Einen neuen Tip über das Terminal anlegen cd VerzeichnisWebsite hugo new tips/&amp;lt;Postname&amp;gt;.md  </description>
+      <description>Einen neuen Post über das Terminal anlegen cd VerzeichnisWebsite hugo new post/&amp;lt;Postname&amp;gt;.md Einen neuen Tip über das Terminal anlegen cd VerzeichnisWebsite hugo new tips/&amp;lt;Postname&amp;gt;.md </description>
     </item>
     
   </channel>
