@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brot on Du Jockel</title>
+    <link>https://dujockel.de/tags/brot/</link>
+    <description>Recent content in Brot on Du Jockel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dujockel.de/tags/brot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Französisches Baguette</title>
+      <link>https://dujockel.de/recipes/baguette/</link>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dujockel.de/recipes/baguette/</guid>
+      <description>Zutaten  400g Weizenmehl 270mL Wasser 1,5 TL Salz 1 Prise Zucker 0,25 Würfel Hefe  Zubereitung  Mehl, salz und Zucker vermischen. Hefe im Wasser auflösen und zusamme mit den trockenen Zutaten vermengen Alles mit dem Handrührgerät ca. 4 min zu einem elastischen Teig verkneten. Den Teig zwei Stunden ruhen lassen. Teig in zwei gleichgroße Stücke teilen und aus diesen Baguettes formen und auf ein mit Backpapier ausgelegtes Backblech legen.</description>
+    </item>
+    
+  </channel>
+</rss>

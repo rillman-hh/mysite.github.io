@@ -3,8 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dujockel.de/tags/backen/</loc>
+    <lastmod>2020-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dujockel.de/tags/brot/</loc>
+    <lastmod>2020-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dujockel.de/</loc>
-    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dujockel.de/recipes/baguette/</loc>
+    <lastmod>2020-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dujockel.de/recipes/</loc>
+    <lastmod>2020-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dujockel.de/tags/</loc>
+    <lastmod>2020-07-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -20,21 +45,6 @@
   <url>
     <loc>https://dujockel.de/tags/mittagessen/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dujockel.de/recipes/</loc>
-    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dujockel.de/tags/</loc>
-    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dujockel.de/tags/backen/</loc>
-    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
