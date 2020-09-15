@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Du Jockel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dujockel.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Backen</title>
+      <link>https://dujockel.de/tags/backen/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dujockel.de/tags/backen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brot</title>
+      <link>https://dujockel.de/tags/brot/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dujockel.de/tags/brot/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Kochen</title>
@@ -26,24 +44,6 @@
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://dujockel.de/tags/mittagessen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Backen</title>
-      <link>https://dujockel.de/tags/backen/</link>
-      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dujockel.de/tags/backen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brot</title>
-      <link>https://dujockel.de/tags/brot/</link>
-      <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dujockel.de/tags/brot/</guid>
       <description></description>
     </item>
     
