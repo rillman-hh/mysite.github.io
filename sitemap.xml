@@ -1,150 +1,92 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://dujockel.de/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/tags/kochen/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/recipes/gnochi-pumpkin-casserole/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/tags/mittagessen/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/recipes/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/tags/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/tags/backen/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/recipes/baguetteovernight/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/tags/brot/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/recipes/nudeln_haloumi_aubergine/</loc>
     <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/tags/sauerteig/</loc>
     <lastmod>2020-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/recipes/feedsauerteig/</loc>
     <lastmod>2020-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/tags/br%C3%B6tchen/</loc>
     <lastmod>2020-07-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/recipes/baguette/</loc>
     <lastmod>2020-07-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/recipes/milchbr%C3%B6tchen/</loc>
     <lastmod>2020-07-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/recipes/gnochi-mit-sardischer-fleischso%C3%9Fe/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/recipes/walnussbrot/</loc>
     <lastmod>2020-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/recipes/fishsoup/</loc>
     <lastmod>2020-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/recipes/burgerbuns/</loc>
     <lastmod>2020-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/tags/abendessen/</loc>
     <lastmod>2019-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/recipes/pizza/</loc>
     <lastmod>2019-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/recipes/zwiebelkuchen/</loc>
     <lastmod>2019-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/tags/dessert/</loc>
     <lastmod>2019-03-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/recipes/himbeertraum/</loc>
     <lastmod>2019-03-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/tips/how_to_hugo/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/tags/hugo/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/recipes/rice_bowl/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/tips/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dujockel.de/recipes/kartoffelpuffer/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
-  
 </urlset>
