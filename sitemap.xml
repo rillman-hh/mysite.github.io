@@ -2,26 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dujockel.de/tags/abendessen/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
+    <loc>https://dujockel.de/recipes/chillimarrakech/</loc>
+    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dujockel.de/</loc>
+    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dujockel.de/tags/kochen/</loc>
+    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dujockel.de/tags/mittagessen/</loc>
+    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dujockel.de/recipes/</loc>
+    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dujockel.de/tags/</loc>
+    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dujockel.de/recipes/shepardspie/</loc>
+    <lastmod>2021-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dujockel.de/recipes/h%C3%BChnchensataynudeln/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dujockel.de/tags/abendessen/</loc>
     <lastmod>2020-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dujockel.de/recipes/peanutchickencurry/</loc>
     <lastmod>2020-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dujockel.de/tags/kochen/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dujockel.de/tags/mittagessen/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dujockel.de/recipes/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dujockel.de/tags/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
+    <loc>https://dujockel.de/recipes/apfelzimtschnecke/</loc>
+    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dujockel.de/recipes/gnochi-pumpkin-casserole/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
@@ -56,6 +68,12 @@
     <loc>https://dujockel.de/recipes/gnochi-mit-sardischer-fleischso%C3%9Fe/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://dujockel.de/recipes/boranibadejan/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dujockel.de/recipes/empty/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://dujockel.de/recipes/walnussbrot/</loc>
     <lastmod>2020-05-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -77,16 +95,10 @@
     <loc>https://dujockel.de/recipes/himbeertraum/</loc>
     <lastmod>2019-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dujockel.de/recipes/apfelzimtschnecke/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dujockel.de/tips/how_to_hugo/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dujockel.de/tags/hugo/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dujockel.de/recipes/shepardspie/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dujockel.de/recipes/rice_bowl/</loc>

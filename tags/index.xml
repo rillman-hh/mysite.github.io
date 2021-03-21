@@ -6,20 +6,11 @@
     <description>Recent content in Tags on Du Jockel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://dujockel.de/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Abendessen</title>
-      <link>https://dujockel.de/tags/abendessen/</link>
-      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dujockel.de/tags/abendessen/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dujockel.de/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kochen</title>
       <link>https://dujockel.de/tags/kochen/</link>
-      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://dujockel.de/tags/kochen/</guid>
       <description></description>
@@ -28,9 +19,18 @@
     <item>
       <title>Mittagessen</title>
       <link>https://dujockel.de/tags/mittagessen/</link>
-      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://dujockel.de/tags/mittagessen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abendessen</title>
+      <link>https://dujockel.de/tags/abendessen/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dujockel.de/tags/abendessen/</guid>
       <description></description>
     </item>
     
